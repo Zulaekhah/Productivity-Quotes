@@ -15,6 +15,7 @@ A simple web app that displays the best productivity and self-discipline quotes 
 
 ✅ Lightweight & Fast – No database or API needed
 
+
 🛠️ Built With
 
 HTML – Structure of the app
@@ -25,6 +26,7 @@ JavaScript – Logic for generating and sharing quotes
 
 
 Simply open index.html in your browser.
+
 📌 How It Works
 
 1️⃣ Click the New Quote button to generate a random quote.
@@ -39,4 +41,4 @@ Feel free to contribute by submitting issues or pull requests!
 📝 License
 
 This project is open-source and free to use
-]
+
